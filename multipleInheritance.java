@@ -27,3 +27,4 @@ class yug implements mother, father{
         mother.super.show();
     }
 }
+
